@@ -1,0 +1,40 @@
+add:
+  int:
+    datas:
+      - - 1
+        - 1
+        - 2
+      - [ 100,100,200 ]
+      - [ 0,1,1 ]
+    ids:
+      - int
+      - bigint
+      - zero
+  float:
+    datas:
+      - [ 0.1,0.1,0.2 ]
+      - [ 0.1,0.2,0.3 ]
+    ids:
+      - float1
+      - float2
+div:
+  int:
+    datas:
+      - - 1
+        - 1
+        - 2
+      - [ 10000,250,40]
+    ids:
+      - int
+      - bigint
+  float:
+    datas:
+      - [ 0.1,0.1,1 ]
+      - [ 0.5,0.1,0.5 ]
+      - [ 100.71,0.03,3357 ]
+    ids:
+      - float1
+      - float2
+      - float3
+
+

@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_calculator_fixture.py:64 
+测试开始
+[32mINFO    [0m root:test_calculator_fixture.py:72 
+开始计算
+[32mINFO    [0m root:test_calculator_fixture.py:95 test_add数据：[1, 1, 2]
+[32mINFO    [0m root:test_calculator_fixture.py:75 
+结束计算

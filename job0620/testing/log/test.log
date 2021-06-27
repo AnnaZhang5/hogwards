@@ -1,0 +1,51 @@
+2021-06-27 11:02:39 [INFO] 
+测试开始 (test_calculator_fixture.py:64)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] test_add数据：[1, 1, 2] (test_calculator_fixture.py:95)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] test_add数据：[100, 100, 200] (test_calculator_fixture.py:95)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] test_add数据：[0, 1, 1] (test_calculator_fixture.py:95)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+开始计算 (test_calculator_fixture.py:72)
+2021-06-27 11:02:39 [INFO] 
+结束计算 (test_calculator_fixture.py:75)
+2021-06-27 11:02:39 [INFO] 
+测试结束 (test_calculator_fixture.py:69)
